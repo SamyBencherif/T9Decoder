@@ -29,7 +29,7 @@ or decode your own message,
 ```
 $ node T9Converter.js
 Ex message: '43556 96753'
-T9 Message: 766384637 4 9253 87 727326464
+T9 Message: 968027302064230737766
 ```
 
 ## Implementation Notes
